@@ -1,0 +1,10 @@
+python
+javascript
+java
+c#
+Node
+R
+Golang
+sql
+c++
+html
